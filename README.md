@@ -56,3 +56,15 @@ In this project, you will deploy a static website to AWS by performing the follo
     - AWS Secret Access Key
     - Default region name
     - Default output format
+- Secure Bucket via AIM
+![permissions](./my_img/bucket_policy.png)
+
+- Configure Bucket
+
+![website](./my_img/website.png)
+
+- Distribute Website via CloudFront
+![CloudFront](./my_img/distribution.png)
+
+- Access Website in Web Browser
+![Web](./my_img/web.png)
