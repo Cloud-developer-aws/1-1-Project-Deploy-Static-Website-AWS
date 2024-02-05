@@ -68,3 +68,5 @@ In this project, you will deploy a static website to AWS by performing the follo
 
 - Access Website in Web Browser
 ![Web](./my_img/web.png)
+
+![Amazon](./my_img/bucket_web.png)

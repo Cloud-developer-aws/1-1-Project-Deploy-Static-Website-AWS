@@ -11,3 +11,6 @@ index.html - The Index document for the website.
 
 
 CloudFront distribution: https://d4046keelh8mu.cloudfront.net/index.html
+
+
+http://my-429535608682-bucket.s3-website.us-east-1.amazonaws.com/
